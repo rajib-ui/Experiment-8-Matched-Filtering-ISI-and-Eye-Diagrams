@@ -21,6 +21,6 @@ Experiment_8.ipynb — Google Colab simulation
 Experiment_8_PPT.pptx — Presentation
 Experiment_8_Report.pdf — Report
 
-Google Colab: [Link]
+Google Colab:   https://colab.research.google.com/drive/1OZJpA6CLhMZQ5-KoUNi_lyGReyi5XxYu
 
-PPT: [Link]
+PPT: https://drive.google.com/file/d/1r_M79qkT9RTxIlK8fVaRpZvjr9dIACpn/view?usp=sharing
