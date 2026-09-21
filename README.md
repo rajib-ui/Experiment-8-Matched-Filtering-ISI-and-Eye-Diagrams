@@ -24,3 +24,5 @@ Experiment_8_Report.pdf — Report
 Google Colab:   https://colab.research.google.com/drive/1OZJpA6CLhMZQ5-KoUNi_lyGReyi5XxYu
 
 PPT: https://drive.google.com/file/d/1r_M79qkT9RTxIlK8fVaRpZvjr9dIACpn/view?usp=sharing
+
+video: https://youtu.be/NLmcmXUXA_Y?si=abWXu8DACVNuJtNN
